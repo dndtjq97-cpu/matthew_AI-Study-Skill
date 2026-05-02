@@ -1,0 +1,31 @@
+{
+  "name": "",
+  "os": "",
+  "shell": "",
+  "level": "",
+  "domain": "",
+  "track": "none",
+  "progress": {
+    "00-prerequisites":        {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "01-agents-md":            {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "02-skills":               {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "03-mcp":                  {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "04-prompt-engineering":   {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "05-context-management":   {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "06-free-api-playbook":    {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "07-debugging":            {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "08-subagents":            {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "09-hooks":                {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "10-work-decomposition":   {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "11-tool-selection":       {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "12-cost-mgmt":            {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "13-local-cloud-privacy":  {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "14-multi-agent-design":   {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}},
+    "15-build-your-own-harness": {"status": "not_started", "current_chunk": 0, "total_chunks": 0, "practice_status": "not_started", "completed_at": null, "last_visited_at": null, "draft": {}}
+  },
+  "track_decisions": {
+    "advanced_decision": "pending"
+  },
+  "created_at": "",
+  "updated_at": ""
+}
