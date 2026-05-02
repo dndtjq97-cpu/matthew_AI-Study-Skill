@@ -98,7 +98,8 @@ Claude Code · Codex CLI · Cursor · Gemini CLI · Antigravity 어디에서 열
 matthew_AI-Study-Skill/
 ├── README.md                       ← (이 문서)
 ├── INSTALL.md                      ← 에이전트별 설치/연동 방법
-├── LICENSE-NOTICE.md               ← 비공개 + 동봉 라이선스 고지
+├── LICENSE                         ← 저작권 표시 (All Rights Reserved)
+├── LICENSE-NOTICE.md               ← 라이선스 정책 + 동봉 외부 라이선스 고지
 ├── LESSONS_PLAN.md                 ← 13개 강의 결정 이력
 ├── LESSONS_PLAN_APPENDIX.md        ← 부록 5개 결정 이력
 │
@@ -170,7 +171,7 @@ NN-skill-name/
 
 ## 라이선스 / 외부 공유
 
-이 패키지는 **비공개**입니다. 자세한 내용은 [`LICENSE-NOTICE.md`](./LICENSE-NOTICE.md) 참조.
+저장소는 **공개**되어 있지만, 모든 권리는 매튜에게 있습니다 (**All Rights Reserved**). 누구나 보고 *학습 목적*으로 사용 가능하지만, 재배포·수정·상업적 사용은 사전 허락이 필요합니다. 자세한 내용은 [`LICENSE-NOTICE.md`](./LICENSE-NOTICE.md) 참조.
 
 동봉된 외부 자료: Anthropic skill-creator (Apache 2.0)
 
