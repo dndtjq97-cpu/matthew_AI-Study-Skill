@@ -100,7 +100,7 @@ matthew_AI-Study-Skill/
 ├── INSTALL.md                      ← 에이전트별 설치/연동 방법
 ├── LICENSE                         ← 저작권 표시 (All Rights Reserved)
 ├── LICENSE-NOTICE.md               ← 라이선스 정책 + 동봉 외부 라이선스 고지
-├── RESOURCES.md                    ← 추천 유튜브·스레드 (상위 메뉴 (2)에서 호출)
+├── RESOURCES.md                    ← 추천 유튜브 채널 (상위 메뉴 (2)에서 호출)
 ├── LESSONS_PLAN.md                 ← 13개 강의 결정 이력
 ├── LESSONS_PLAN_APPENDIX.md        ← 부록 5개 결정 이력
 │
@@ -154,7 +154,7 @@ NN-skill-name/
 > 2. 없으면 → `_shared/learner-profile-schema.md`의 첫 진입 흐름으로 프로필 생성.
 > 3. 프로필 생성 직후 또는 두 번째 이후 진입 → `_shared/menu-template.md` §2의 **상위 메뉴** 출력:
 >    - (1) 강의 듣기 → 0강 권장 분기 (첫 진입 시) 또는 강의 메뉴 (이어서)
->    - (2) AI 공부할 때 참고하면 좋은 유튜브·스레드 추천 → `RESOURCES.md` 출력
+>    - (2) AI 공부할 때 참고하면 좋은 유튜브 추천 → `RESOURCES.md` 출력
 > 4. 학습자가 강의 번호·이름 입력 → 해당 폴더의 `SKILL.md` 호출.
 > 5. 모든 응답은 `_shared/style-guide.md`의 톤(친근한 존댓말).
 > 6. 이론은 `_shared/teaching-protocol.md`(청크 단위), 실습은 `_shared/guided-practice-protocol.md`(7단계).
