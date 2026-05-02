@@ -1,0 +1,49 @@
+All Rights Reserved
+
+Copyright (c) 2026 매튜 (Matthew)
+
+이 저장소의 코드·문서·콘텐츠에 대한 모든 권리는 작성자(매튜)에게 있습니다.
+
+저장소는 공개되어 있어 누구나 *볼 수* 있고 *학습 목적*으로 사용할 수
+있습니다.
+
+다만 다음 행위는 작성자의 사전 허락 없이 할 수 없습니다:
+- 코드·문서·콘텐츠의 복제·재배포
+- 수정 또는 파생 작품(deriv) 작성
+- 상업적 사용 (강의·교재 등)
+- 다른 매체·플랫폼으로의 복제
+
+재사용을 원하시면 작성자에게 직접 문의해 주세요.
+
+---
+
+이 저장소에 동봉된 외부 자료(`_vendor/anthropic-skill-creator/`)는
+별도의 라이선스(Apache License 2.0)를 따릅니다. 자세한 내용은
+`_vendor/anthropic-skill-creator/LICENSE.txt` 와
+`_vendor/anthropic-skill-creator/NOTICE.md`를 참조하세요.
+
+---
+
+ALL RIGHTS RESERVED
+
+Copyright (c) 2026 Matthew (매튜)
+
+All rights to the code, documentation, and content in this repository are
+reserved by the author (Matthew).
+
+This repository is publicly visible — anyone can read and use it for
+*learning purposes*. However, the following are NOT permitted without
+prior written permission from the author:
+- Copying or redistribution of code, documents, or content
+- Modification or creation of derivative works
+- Commercial use (lectures, textbooks, etc.)
+- Reproduction on other media or platforms
+
+For reuse permissions, please contact the author directly.
+
+---
+
+External materials bundled in this repository
+(`_vendor/anthropic-skill-creator/`) are subject to their own license
+(Apache License 2.0). See `_vendor/anthropic-skill-creator/LICENSE.txt`
+and `_vendor/anthropic-skill-creator/NOTICE.md` for details.
